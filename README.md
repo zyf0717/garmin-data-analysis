@@ -1,1 +1,1 @@
-# garmin-data-analysis
+# Garmin data analysis
